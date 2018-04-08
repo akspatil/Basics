@@ -1,0 +1,12 @@
+Abstract Classes:
+> Enables creation of incomplete Classes and members.
+> Must be inherited.
+> Cannot be instantiated.
+> Provides common definition that can be shared.
+
+Abstract Methods:
+> Have no implementation.
+> Must be implemented by derived Classes.
+
+Sealed:
+> Prevents classes and members from being derived.
